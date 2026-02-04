@@ -1,4 +1,4 @@
-# Large Model Compression & Intelligent Terminal Acceleration
+# LLM-Compression-Acceleration-Resources
 
 # 大模型压缩与智能终端加速实验室
 
